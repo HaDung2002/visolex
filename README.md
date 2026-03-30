@@ -130,7 +130,9 @@ ViSoLex is developed at the University of Information Technology, Vietnam Nation
 	year = {2025},
 	pages = {57},
 }
+```
 
+```
 @inproceedings{nguyen-etal-2025-visolex,
     title = "{V}i{S}o{L}ex: An Open-Source Repository for {V}ietnamese Social Media Lexical Normalization",
     author = "Nguyen, Anh Thi-Hoang  and
