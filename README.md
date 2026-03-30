@@ -111,3 +111,45 @@ A demonstration video on how to use the interface is accessible via this [URL](h
 ## License
 
 This project is licensed under the MIT License.
+
+## 📝 Citation
+
+ViSoLex is developed at the University of Information Technology, Vietnam National University Ho Chi Minh City (UIT, VNU-HCM). If you use ViSoLex in your research, please **CITE**:
+
+```
+@article{nguyen_weakly_2025,
+	title = {A {Weakly} {Supervised} {Data} {Labeling} {Framework} for {Machine} {Lexical} {Normalization} in {Vietnamese} {Social} {Media}},
+	volume = {17},
+	issn = {1866-9964},
+	url = {https://doi.org/10.1007/s12559-024-10356-3},
+	doi = {10.1007/s12559-024-10356-3},
+	number = {1},
+	journal = {Cognitive Computation},
+	author = {Nguyen, Dung Ha and Nguyen, Anh Thi Hoang and Van Nguyen, Kiet},
+	month = jan,
+	year = {2025},
+	pages = {57},
+}
+
+@inproceedings{nguyen-etal-2025-visolex,
+    title = "{V}i{S}o{L}ex: An Open-Source Repository for {V}ietnamese Social Media Lexical Normalization",
+    author = "Nguyen, Anh Thi-Hoang  and
+      Nguyen, Dung Ha  and
+      Nguyen, Kiet Van",
+    editor = "Rambow, Owen  and
+      Wanner, Leo  and
+      Apidianaki, Marianna  and
+      Al-Khalifa, Hend  and
+      Eugenio, Barbara Di  and
+      Schockaert, Steven  and
+      Mather, Brodie  and
+      Dras, Mark",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics: System Demonstrations",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.coling-demos.18/",
+    pages = "183--188",
+}
+```
